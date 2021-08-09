@@ -1,5 +1,5 @@
 # luella-similar-lines
-Luella Sugiman - Similar Lines Detection Program
+Similar Lines Detection Program
 
 Readaline was implemented such that:
 - It reads a single line of output of any length from an already opened file
